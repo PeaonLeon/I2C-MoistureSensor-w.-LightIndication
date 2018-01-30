@@ -12,4 +12,4 @@ A Arduino Uno Script for the DFRobot Capacative Moisture sensor (Also selled und
 ( Value can be changed in Void-Loop )
 
 
-# Updates will follow in near future
+# Updates will follow in near future.

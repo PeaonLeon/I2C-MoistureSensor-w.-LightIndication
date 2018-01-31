@@ -1,5 +1,5 @@
 # I2C-MoistureSensor with LightIndication
-A Arduino Uno Script for the DFRobot Capacative Moisture sensor (Also selled under different brand names) with LCD Display support and Light Indication if a specific value is reached.
+A Arduino Script for the DFRobot Capacative Moisture sensor (Also selled under different brand names) with LCD Display support and Light Indication if a specific value is reached.
 
 
 # Near Information
@@ -13,5 +13,9 @@ A Arduino Uno Script for the DFRobot Capacative Moisture sensor (Also selled und
 
 • support for an I2D Display is implemented (can be removed easily)
 
+• Digital Sensors also can be read out
+  (Just change "analogRead" to "digitalRead")
+  
+  
 
 # Updates will follow in near future.
